@@ -8,6 +8,7 @@
 -- How many message --
 -- Enjoy ig, don't skid again. --
 -- Herlow & Fake is so cool. --
+-- guns.lol/yaazkidd
 -- Made by Yaazkidd, **CurseDew**, Feima, Fake, Kenzie, Herlow, Vertop and Ices. Thank you --
 
 --[[ Version v.2.4.3, I WILL ALWAYS BE THERE. Ixkn4B/0ttsV1nbxBLsU/w== ]] --
